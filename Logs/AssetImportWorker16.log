@@ -1,0 +1,26 @@
+Unity Editor version:    2021.3.0f1 (6eacc8284459)
+Branch:                  2021.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 11.5 (Build 20G71)
+Darwin version:          20.6.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: YES
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2021.3.0f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker16
+-projectPath
+/Users/vincentshi/Downloads/Homework_3-main
+-logFile
+Logs/AssetImportWorker16.log
+-srvPort
+54006
+Successfully changed project path to: /Users/vincentshi/Downloads/Homework_3-main
